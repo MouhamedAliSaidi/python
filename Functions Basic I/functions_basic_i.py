@@ -17,7 +17,7 @@ def number_of_books_on_hold():
 print(number_of_books_on_hold())
 
 
-#4                        5 , 10
+#4                        5 
 def number_of_fingers():
     return 5
     print(10)
@@ -31,7 +31,7 @@ x = number_of_great_lakes()
 print(x)
 
 
-#6                3,5,8                   
+#6                3,5,none                   
 def add(b,c):       
     print(b+c)
 print(add(1,2) + add(2,3))
